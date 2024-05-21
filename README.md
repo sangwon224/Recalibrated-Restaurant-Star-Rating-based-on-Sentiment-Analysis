@@ -32,7 +32,7 @@ For this project, Google Maps review dataset was pulled from Google Maps API:
 Overall, for this project, I have pulled roughly ~3K reviews along with restaurant information to minimize API usage cost and computing time.
 
 ### Data Limitations
-- Due to the limited computational power, the model will be trained on a relatively small dataset
+- Due to the limited computational power, a small dataset is used for the analysis
 - The dataset does not have all/full text reviews for a given restaurant (i.e., limited to 5 reviews per restaurant)
 - The dataset exclusively examines reviews of New York City restaurants. Different geography may have quite different relationship between text review's sentiment score and star rating
 
