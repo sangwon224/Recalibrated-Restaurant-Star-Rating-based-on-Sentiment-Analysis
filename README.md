@@ -99,7 +99,7 @@ From the project, following are my recommendations to the PM:
 - Research into more advanced sentiment analysis model that can better pick up nuances (perhaps, utilize ChatGPT 4.0 API)
 
 ## For More Information (to be updated)
-Please review our full analysis in jupyter notebook ([Recalibrated_Restaurant_Rating_Part 1](https://github.com/sangwon224/Recalibrated-Restaurant-Rating-based-on-Sentiment-Analysis/blob/main/Recalibrated_Restaurant_Rating_Part1.ipynb)) & ([Recalibrated_Restaurant_Rating_Part 2](--)) \
+Please review our full analysis in jupyter notebook ([Recalibrated_Restaurant_Rating_Part 1](https://github.com/sangwon224/Recalibrated-Restaurant-Rating-based-on-Sentiment-Analysis/blob/main/Recalibrated_Restaurant_Rating_Part1.ipynb)) & ([Recalibrated_Restaurant_Rating_Part 2](https://github.com/sangwon224/Recalibrated-Restaurant-Rating-based-on-Sentiment-Analysis/blob/main/Recalibrated_Restaurant_Rating_Part2.ipynb)) \
 And also refer to our ([Presentation](--)) 
 
 ## Contributors
