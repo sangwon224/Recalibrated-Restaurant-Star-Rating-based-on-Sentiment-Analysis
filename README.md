@@ -95,7 +95,7 @@ From the project, following are my recommendations to the PM:
 - Beta-test star rating assistant feature: when there appears to be a big mismatch in text review's sentiment score and user's star rating, assistant feature can provide a suggested star rating, which user can override if user would like to
 
 ## Future Improvements
-- Re-run the analysis and re-train the model with bigger dataset
+- Re-run the analysis with a bigger dataset
 - Research into more advanced sentiment analysis model that can better pick up nuances (perhaps, utilize ChatGPT 4.0 API)
 
 ## For More Information (to be updated)
