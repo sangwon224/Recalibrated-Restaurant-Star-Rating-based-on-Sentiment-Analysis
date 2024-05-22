@@ -91,7 +91,7 @@ Although the reclassification model often mis-categorized individual reviews in 
 From the project, following are my recommendations to the PM:
 
 - Post example reviews per different star rating buckets to create a general criteria/guideline for what each star rating means (to prevent very harsh or loose star ratings)
-- Beta-test ML+NLP/LLM-based restaurant star rating system (i.e., based on sentiment analysis model) in addition to the traditional star rating system and get user's feedback
+- Beta-test LLM-based restaurant star rating system (i.e., based on sentiment analysis model) in addition to the traditional star rating system and get user's feedback
 - Beta-test star rating assistant feature: when there appears to be a big mismatch in text review's sentiment score and user's star rating, assistant feature can provide a suggested star rating, which user can override if user would like to
 
 ## Future Improvements
